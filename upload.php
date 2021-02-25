@@ -1,5 +1,5 @@
 <?php
-// DarkShare
+// FileShare
 // Upload.php
 //
 //Start PHP session
